@@ -10,6 +10,9 @@ I'm an experienced Software Engineer with a strong background in frontend develo
 *   🌍  I'm based in Chandler, AZ
 *   🖥️  My projects can be found at [My Portfolio](https://aishaeportfolio.com)
 *   ✉️  You can contact me at [shovon3000g@gmail.com](mailto:shovon3000g@gmail.com)
+*   <img class=" lazyloaded" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn Logo" title="LinkedIn Logo" width="21" height="21"> [https://www.linkedin.com/in/aisha-evering-91580a3/](https://www.linkedin.com/in/aisha-evering-91580a3/)
+
+
 
 ### Technologies
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -25,12 +28,4 @@ I'm an experienced Software Engineer with a strong background in frontend develo
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](www.react.dev)
 
 
-### Connect with me:
-<div align="left">
-  <a href="https://www.linkedin.com/in/aisha-evering-91580a3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-
-<img class=" lazyloaded" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Working Mario" title="Working Mario">
+<img class=" lazyloaded" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="300" alt="Working Mario" title="Working Mario">
