@@ -2,7 +2,7 @@
 
 
 
-## Experienced Software Engineer transitioning into a Machine Learning Engineer
+## Experienced Software Engineer transitioning into Machine Learning Engineer
 
 
 I'm an experienced Software Engineer with a strong background in frontend development. Currently, I'm transitioning into a Machine Learning Engineer, actively pursuing certifications in machine learning and data analysis. My studies encompass Python, Statistics, and Linear Algebra, PyTorch, Tensorflow bolstered by hands-on projects showcased on my portfolio and GitHub profile. I'm driven by the goal of becoming a proficient Machine Learning Engineer and contribute my analytical skills and problem-solving mindset to innovative projects. 
