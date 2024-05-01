@@ -2,10 +2,12 @@
 
 
 
-## Experienced Software Engineer transitioning into Machine Learning Engineer
+## Machine Learning Engineer
 
 
-I'm an experienced Software Engineer with a strong background in frontend development. Currently, I'm transitioning into a Machine Learning Engineer, actively pursuing certifications in machine learning and data analysis. My studies encompass Python, Statistics, and Linear Algebra, PyTorch, Tensorflow bolstered by hands-on projects showcased on my portfolio and GitHub profile. I'm driven by the goal of becoming a proficient Machine Learning Engineer and contribute my analytical skills and problem-solving mindset to innovative projects. 
+My passion lies in Machine Learning. With a background in Software Engineering, I specialize in developing applications using a variety of technologies, including Dart, C#, Java, and JavaScript. I am proficient in OverReact, an in-house version of React used with Dart, as well as JSON manipulation.
+
+Currently, I am channeling my energy into all things Data Science. I am pursuing certifications and undertaking projects to deepen my expertise in this field. I am eager to apply my strong analytical skills and programming expertise in a data-driven role. I am seeking an environment that fosters continual learning and offers opportunities to work with cutting-edge technologies.
 
 *   🌍  I'm based in Chandler, AZ
 *   🖥️  My projects can be found at [My Portfolio](https://aishaeportfolio.com)
