@@ -4,10 +4,7 @@
 
 ## Machine Learning Engineer
 
-
-My passion lies in Machine Learning. With a background in Software Engineering, I specialize in developing applications using a variety of technologies, including Dart, C#, Java, and JavaScript. I am proficient in OverReact, an in-house version of React used with Dart, as well as JSON manipulation.
-
-Currently, I am channeling my energy into all things Data Science. I am pursuing certifications and undertaking projects to deepen my expertise in this field. I am eager to apply my strong analytical skills and programming expertise in a data-driven role. I am seeking an environment that fosters continual learning and offers opportunities to work with cutting-edge technologies.
+I have most recently dedicated my time to gaining various data science certifications and creating projects that showcase my skills. My priority is to become a Machine Learning Engineer. My passion is Machine Learning using Python, and my professional experience lies in Software Engineering, specializing in developing applications using a variety of technologies including Dart, C#, Java, and JavaScript. I am proficient in OverReact, an in-house version of React used with Dart, as well as JSON manipulation. I am eager to apply my strong analytical skills and programming expertise in a data-driven role.
 
 *   🌍  I'm based in Chandler, AZ
 *   🖥️  My projects can be found at [My Portfolio](https://aishaeportfolio.com)
