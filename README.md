@@ -11,6 +11,7 @@ I&apos;ve spent several years building and scaling software for some innovative 
 *   ✉️  You can contact me at [shovon3000g@gmail.com](mailto:shovon3000g@gmail.com)
 *   <img class=" lazyloaded" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn Logo" title="LinkedIn Logo" width="21" height="21"> [https://www.linkedin.com/in/aisha-evering-91580a3/](https://www.linkedin.com/in/aisha-evering-91580a3/)
 *   <img class=" lazyloaded" src="https://github.com/AishaEvering/AishaEvering/blob/main/datacamp.webp" alt="Datacamp Logo" title="Datacamp Logo" width="21" height="21"> [https://www.datacamp.com/portfolio/shovon3000g](https://www.datacamp.com/portfolio/shovon3000g)
+*   <img class=" lazyloaded" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Datacamp Logo" title="Datacamp Logo" width="21" height="21"> [https://huggingface.co/AishaE](https://huggingface.co/AishaE)
 
 
 
