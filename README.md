@@ -4,9 +4,9 @@
 
 ## Software Engineer | Computational Biology & Bioinformatics
 
-I&apos;m a software engineer with ~ 20 years of experience building and scaling applications, now applying that engineering background to computational biology and bioinformatics.  I&apos;m completing my M.S. in Computational Life Sciences at Arizona State University, where my work has included genomics, transcriptomics, phylogenetics, and scientific computing.  My interest currently lies in building computational tools that make biological data and workflows more accessible.
+I&apos;m a software engineer with ~ 20 years of experience building and scaling applications, now applying that engineering background to computational biology and bioinformatics.  I&apos;m completing my M.S. in Computational Life Sciences at Arizona State University, where my work has included genomics, transcriptomics, phylogenetics, and scientific computing.  My interests include building computational tools that make biological data and workflows more accessible.
 
-🧬 Currently building: [BioTools — visual tools for bioinformatics workflows](https://bio-tools.dev/), starting with a visual command builder for samtools view.
+🧬 Currently building: [BioTools — visual tools for bioinformatics workflows](https://bio-tools.dev/), starting with a visual command builder for samtools view
 
 *   🌍  I'm based in Chandler, AZ
 *   🖥️  My projects can be found at [My Portfolio](https://aishaeportfolio.com)
@@ -24,6 +24,8 @@ I&apos;m a software engineer with ~ 20 years of experience building and scaling 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Tools & workflows:** DESeq2 · samtools · SLURM/HPC · IQ-TREE
 
 💻 Software Engineering
 
@@ -46,7 +48,6 @@ I&apos;m a software engineer with ~ 20 years of experience building and scaling 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 <img class=" lazyloaded" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="300" alt="Working Mario" title="Working Mario">
